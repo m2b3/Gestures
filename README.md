@@ -6,7 +6,7 @@ This is a new exploratory project that aims to use the recent advances in real-t
 
 Planned effort: 350 hours 
 Skill level: Intermediate/Advanced
-Pre-requisite skills: Comfortable with Python. Experience with  image/video processing and using deep-learning based image-processing models. Familiarity with C/C++ programming, low-latency sound generation, image processing, and audiovisual displays, as well as MediaPipe and/or DeeplabCut/Jarvis is an advantage, though not necessary.
-Tech keywords: Sound/music generation, Image processing, Python, MediaPipe, Wekinator.
+Pre-requisite skills: Comfortable with Python. Experience with  image/video processing and using deep-learning based image-processing models. Familiarity with C/C++ programming, low-latency sound generation, image processing, and audiovisual displays, as well as MediaPipe or other markerless pose/motion capture tools is an advantage, though not necessary.
+Tech keywords: Sound/music generation, Image processing, Pose estimation, Python, MediaPipe, Wekinator.
 Mentor: Suresh Krishna (more may be added later)
 No planned longer absences.
